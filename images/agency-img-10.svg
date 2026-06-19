@@ -1,0 +1,8 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- H icon -->
+  <g transform="translate(0, 2) scale(0.2)">
+    <path d="m0 0 39.319 21.172v39.32h57.467l36.295 21.172H0zm148.203 75.615V21.172L105.859 0v51.418zm0 99.811-39.319-21.172v-39.32H51.417L15.122 93.762h133.081zM0 99.811v54.443l42.343 21.172v-51.418z" fill="#1A1A1A"/>
+  </g>
+  <!-- Wordmark text -->
+  <text x="42" y="28" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#1A1A1A" letter-spacing="-0.02em">Hostinger</text>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/blog", "destination": "https://www.aaaaccelerator.com/blog", "permanent": false },
+    { "source": "/book-business", "destination": "https://www.aaaaccelerator.com/book-business", "permanent": false },
+    { "source": "/legal/privacy", "destination": "https://www.aaaaccelerator.com/legal/privacy", "permanent": false },
+    { "source": "/legal/terms", "destination": "https://www.aaaaccelerator.com/legal/terms", "permanent": false }
+  ]
+}
