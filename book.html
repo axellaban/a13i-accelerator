@@ -49,16 +49,16 @@ Elegí un horario abajo para reservar tu llamada
     };
   })(window, "https://app.cal.com/embed/embed.js", "init");
 
-  Cal("init", "a13i-accelerator-owners", { origin: "https://app.cal.com" });
+  Cal("init", "a13i-accelerator", { origin: "https://app.cal.com" });
 
-  Cal.ns["a13i-accelerator-owners"]("inline", {
+  Cal.ns["a13i-accelerator"]("inline", {
     elementOrSelector: "#cal-inline-embed",
-    calLink: "axellaban-ai/a13i-accelerator-owners",
+    calLink: "axellaban-ai/a13i-accelerator",
     layout: "month_view",
     config: {"layout":"month_view","useSlotsViewOnSmallScreen":"true"}
   });
   
-  Cal.ns["a13i-accelerator-owners"]("ui", {
+  Cal.ns["a13i-accelerator"]("ui", {
     hideEventTypeDetails: false,
     layout: "month_view"
   });
